@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://liatregev.netlify.app"
 languageCode: "en-us"
 title: "Liat Regev Portfolio Website"
 theme: "hugo-profile"
