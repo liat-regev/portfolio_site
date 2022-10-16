@@ -287,7 +287,7 @@ You can check out my portfolio here."
         featured:
           name: View
           # link: https://hugo-profile.netlify.app
-          link: https://liatregev.netlify.app/Bialetti_Moka_Express_Quick-Start.pdf
+          link: /Bialetti_Moka_Express_Quick-Start.pdf
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
