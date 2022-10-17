@@ -104,7 +104,7 @@ params:
     subtitle: "I write so you can read less and do more"
     content: "I'm a technical writer based in Israel. My background as an information specialist helps me distill long and complex information into a digestable text. I like exploring new technologies, programming languages and AI tools.
 Other than that, I like chubby cats, gourmet pastries and exercising in slow motion.
-You can check out my portfolio here."
+You can check out my portfolio <a href='#projects'>here</a>." 
     image: /images/hero.svg
     # button:
     #   enable: true
