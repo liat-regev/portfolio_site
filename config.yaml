@@ -296,14 +296,20 @@ params:
           #   url: https://github.com/gurusabarish/hugo-profile
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+       
+      - title: GitHub YouTube Tutorial
+        content: I created a YouTube video tutorial that shows 3 ways to upload files to GitHub without using the command line. To create this video, I used QuickTime Player. The tools shown in the video include GitHub, GitHub Desktop, and Visual Studio Code.
+        image: /images/projects/profile2.jpg
+        featured:
+           name: View
+           link: https://www.youtube.com/watch?v=uEc_xzL_ffY&t=1s
 
-       - title: Github YouTube Tutorial
-          content: I created a YouTube video tutorial that shows 3 ways to upload files to GitHub without using the command line. To create this video, I used QuickTime Player. The tools shown in the video include GitHub, GitHub Desktop, and Visual Studio Code. 
-          image: /images/projects/profile2.jpg
-          featured:
-            name: View
-            link: https://www.youtube.com/watch?v=uEc_xzL_ffY&t=1s         
-
+      - title: Cybersecurity How-to Guide
+        content: In cyber security, mitigation refers to a temporary fix to a security breach compromising an organization’s network security. This short how-to guide details a mitigation procedure that addresses a vulnerability in Microsoft Windows.
+        image: /images/projects/converter.jpg
+        featured:
+           name: View
+           link: /disable-print-spooler.html
       - title: Coming Soon
         content: Working on it, working on it...Still working on it...
         image: /images/projects/converter.jpg
