@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>disable print spooler</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="how-to-disable-inbound-remote-printing">How to disable inbound remote printing</h1>
+<p>This guide shows how to mitigate the PrintNightmare  vulnerability using Microsoft’s Group Policy. PrintNightmare is a security vulnerability in the Microsoft Windows operating system. PrintNightmare allows an attacker to use Windows Print Spooler service to remotely control a computer.</p>
+<p>To reduce  the risk of an attacker using this vulnerability,<br>
+you can disable inbound remote printing using Microsoft’s Group Policy feature.</p>
+<h2 id="disable-the-print-spooler">Disable the print spooler</h2>
+<ol>
+<li>
+<p>On the domain controller, select <strong>Start &gt; Tools &gt; Group Policy Management</strong>.</p>
+</li>
+<li>
+<p>In Group Policy editor, go to <strong>Computer Configuration &gt; Administrative Templates &gt; Printers</strong>.<br>
+<img src="https://cdn.nerdschalk.com/wp-content/uploads/2021/07/win-10-disable-printer-spool-8.png?width=1500" alt="Navigate to Computer Configuration, Administrative Templates, Printers"></p>
+</li>
+<li>
+<p>Scroll down the Setting and double-click <strong>Allow Print Spooler to accept client connections</strong>.<br>
+<img src="https://cdn.nerdschalk.com/wp-content/uploads/2021/07/win-10-disable-printer-spool-9.png?width=1500" alt="Allow Print Spooler to accept client connections"></p>
+</li>
+<li>
+<p>Select <strong>Disabled</strong>.<br>
+<img src="https://cdn.wccftech.com/wp-content/uploads/2021/07/PrintNightmare-Print-Spooler-Vulnerability-6.jpg" alt="enter image description here"></p>
+</li>
+<li>
+<p>Click on <strong>Apply</strong> and then <strong>OK</strong>.</p>
+</li>
+</ol>
+<h2 id="restart-the-print-spooler">Restart the print spooler</h2>
+<p>You must restart the print spooler to execute the change.</p>
+<ol>
+<li>Go to Windows <strong>Start</strong> menu and search “<strong>Services</strong>".</li>
+<li>Double-click “<strong>Printer Spooler</strong>” in the Services list.</li>
+<li>Click <strong>Restart</strong>.</li>
+<li>Click <strong>OK</strong>.<br>
+<img src="https://www.bleepstatic.com/images/news/u/1097497/Windows-10/Restart-Spooler.jpg" alt="Restart print spooler"></li>
+</ol>
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
+</div>
+</body>
+
+</html>
