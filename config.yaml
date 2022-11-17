@@ -339,9 +339,9 @@ params:
   contact:
     enable: true
     title: "Contact Me"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: Want to reach out?
     email: liat.tal.regev@gmail.com
-    btnName: Let's talk!
+    btnName: Email me
 
   # footer:
   #   # recentPosts: false
