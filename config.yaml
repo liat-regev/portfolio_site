@@ -127,13 +127,11 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      Do you like reading long and boring texts about your toaster? Me neither! And I absolutely don’t like writing about it. It can be an explainer, an article or a video - the goal is to keep it simple and to the point.
+      Do you like reading long and boring texts about your toaster? Me neither! And I absolutely don’t like writing about it. It can be an explainer, an article or a video—the goal is to keep it simple and to the point.
 
       Hi, I’m Liat Regev. I am a technical writer who likes playing with code. I have a BA in English Literature and Linguistics, and I have a strong interest in the intersection of technology and writing.
 
-      I’m not a native English speaker, but I lived in the USA for 5 years, where I met and communicated with people of many different backgrounds. This made me more sensitive to how non-native speakers use English to communicate.
-      
-      I am currently an intern at <a href='https://www.gitlab.com' GitLab target='_blank'>GitLab</a>. 
+      I’m not a native English speaker, but I lived in the USA for 5 years, where I met and communicated with people of many different backgrounds. This made me more sensitive to how non-native speakers use English to communicate. 
 
     skills:
       enable: true
