@@ -325,20 +325,6 @@ params:
           #- icon: fab fa-github
             #url: https://github.com/gurusabarish/converter
 
-      - title: Company Blog Article
-        content: Techno Ad is a distributor and manufacturer of standard and custom sealing solutions. The company hired me to write a blog article that features their expertise in chloramine-resistant rubber. My challenge was to write a technical piece that promotes Techno-Ad’s products and services.
-        image: /images/projects/converter.jpg
-         featured:
-           name: View
-           link: https://www.technoad.com/when-do-you-need-chloramine-resistant-rubber/
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        # links:
-        #   - icon: fab fa-github
-        #     url: https://github.com/gurusabarish/HugoProfileV2
-
   #Contact
   contact:
     enable: true
