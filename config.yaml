@@ -291,12 +291,7 @@ params:
           #   url: https://github.com/gurusabarish/hugo-profile
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-        - title: Company Blog Article
-        content: Techno Ad is a distributor and manufacturer of standard and custom sealing solutions. The company hired me to write a blog article that features their expertise in chloramine-resistant rubber. My challenge was to write a technical piece that promotes Techno-Ad’s products and services.
-        image: /images/projects/converter.jpg
-        featured:
-           name: View
-           link: https://www.technoad.com/when-do-you-need-chloramine-resistant-rubber/
+        
       - title: GitHub YouTube Tutorial
         content: I created a YouTube video tutorial that shows 3 ways to upload files to GitHub without using the command line. To create this video, I used QuickTime Player. The tools shown in the video include GitHub, GitHub Desktop, and Visual Studio Code.
         image: /images/projects/profile2.jpg
