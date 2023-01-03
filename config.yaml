@@ -274,7 +274,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Coffee Maker Quick Start 
-        content: Has your Moka pot ever exploded? Well, mine has…So for the safety of all coffee lovers, I created a quick start guide for Bialetti Moka Express. my main goals were to keep the guide short and let the graphics do most of the talking.
+        content: Has your Moka pot ever exploded? Well, mine has…So for the safety of all coffee lovers, I created a quick start guide for Bialetti Moka Express. My main goals were to keep the guide short and let the graphics do most of the talking.
         image: /images/projects/quickstart.png
         featured:
           name: View
@@ -310,6 +310,13 @@ params:
         #links:
           #- icon: fab fa-github
             #url: https://github.com/gurusabarish/converter
+       
+       - title: Company Blog Article
+        content: Techno Ad is a distributor and manufacturer of standard and custom sealing solutions. The company hired me to write a blog article that features their expertise in chloramine-resistant rubber. My challenge was to write a technical piece that promotes Techno-Ad’s products and services.
+        image: /images/projects/converter.jpg
+        featured:
+           name: View
+           link: https://www.technoad.com/when-do-you-need-chloramine-resistant-rubber/
 
       - title: Also Coming Soon
         content: Your patience is appriciated.
