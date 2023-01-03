@@ -293,7 +293,7 @@ params:
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
       
       - title: Company Blog Article
-        content: Techno Ad is a distributor and manufacturer of standard and custom sealing solutions. The company hired me to write a blog article that features their expertise in chloramine-resistant rubber. My challenge was to write a technical piece that promotes Techno-Ad’s products and services.
+        content: Techno-Ad is a distributor and manufacturer of standard and custom sealing solutions. The company hired me to write a blog article that features their expertise in chloramine-resistant rubber. My challenge was to write a technical piece that promotes Techno-Ad’s products and services.
         image: /images/projects/converter.jpg
         featured:
           name: View
