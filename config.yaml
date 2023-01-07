@@ -113,8 +113,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
           url: https://il.linkedin.com/in/liat-regev
-      #   - icon: fab fa-github
-      #     url: https://example.com
+        - icon: fab fa-github
+          url: https://github.com/liat-regev
       #   - icon: fab fa-twitter
       #     url: https://example.com
       # customIcons:
