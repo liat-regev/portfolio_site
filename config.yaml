@@ -314,7 +314,7 @@ params:
           link: /WhatsappKB.pdf
           
       - title: GitHub Glossary
-        content: This is a team project for Our Best Words Technical Communication course. My project partner and I worked together to create a glossary of Cloud and SaaS terms. We assembled a list of terms and divided the workload between us. Then we reviewed each other's definitions. After much editing, we formatted the glossary using Markdown and added our glossary to the course's GitHub repository 
+        content: This is a team project for Our Best Words Technical Communication course. My project partner and I worked together to create a glossary of Cloud and SaaS terms. We assembled a list of terms and divided the workload between us. Then we reviewed each other's definitions. After much editing, we formatted the glossary using Markdown and added our glossary to the course's GitHub repository. 
         image: /images/projects//glossary.jpeg
         featured:
            name: View
