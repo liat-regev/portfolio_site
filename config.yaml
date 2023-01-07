@@ -312,7 +312,14 @@ params:
         featured:
           name: View
           link: /WhatsappKB.pdf
-
+          
+      - title: GitHub Glossary
+        content: This is a team project for Our Best Words Technical Communication course. My project partner and I worked together to create a glossary of Cloud and SaaS terms. We assembled a list of terms and divided the workload between us. Then we reviewed each other's definitions. After much editing, we formatted the glossary using Markdown and added our glossary to the course's GitHub repository 
+        image: /images/projects//glossary.jpeg
+        featured:
+           name: View
+           link: https://github.com/Laura-Novich-OBW/glossary/blob/main/cloud-saas/readme.md
+           
       - title: GitHub YouTube Tutorial
         content: I created a YouTube video tutorial that shows 3 ways to upload files to GitHub without using the command line. To create this video, I used QuickTime Player. The tools shown in the video include GitHub, GitHub Desktop, and Visual Studio Code.
         image: /images/projects/profile2.jpg
