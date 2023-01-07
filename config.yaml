@@ -326,9 +326,10 @@ params:
         featured:
            name: View
            link: https://www.youtube.com/watch?v=uEc_xzL_ffY&t=1s
-      - title: Coming Soon
-        content: Your patience is appreciated.
-        image: /images/projects/converter.jpg
+      
+      #- title: Coming Soon
+       # content: Your patience is appreciated.
+        #image: /images/projects/converter.jpg
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
