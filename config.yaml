@@ -298,13 +298,20 @@ params:
         featured:
           name: View
           link: https://www.technoad.com/when-do-you-need-chloramine-resistant-rubber/
-
+    
       - title: Company Blog Article
         content: This is another blog article I wrote for Techno-Ad, this time on adhesion and rubber-to-metal bonding. The challenge here was to present a complex technical subject clearly and concisely, and convince readers that Techno-Ad is their go-to company for rubber bonding.
         image: /images/projects/profile2.jpg
         featured:
           name: View
           link: https://www.technoad.com/https-www-technoad-com-make-it-stick-adhesion-in-rubber-to-metal-bonding/
+
+      - title: Knowledge Base Articles
+        content: This was a homework assignment for a Technical Communication course. I created 5 knowledge base articles for the Whatsapp application, each of a different type (Informational, How-to, Referential, Troubleshooting, and FAQ). The challenges included focusing only on information relevant to the user and linking articles and pieces of information to each other. 
+        image: /images/projects/knowledgebase.png
+        featured:
+          name: View
+          link: /WhatsappKB.pdf
 
       - title: GitHub YouTube Tutorial
         content: I created a YouTube video tutorial that shows 3 ways to upload files to GitHub without using the command line. To create this video, I used QuickTime Player. The tools shown in the video include GitHub, GitHub Desktop, and Visual Studio Code.
@@ -313,7 +320,7 @@ params:
            name: View
            link: https://www.youtube.com/watch?v=uEc_xzL_ffY&t=1s
       - title: Coming Soon
-        content: Working on it, working on it...Still working on it...
+        content: Your patience is appreciated.
         image: /images/projects/converter.jpg
         # featured:
         #   name: Demo
